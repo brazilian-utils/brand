@@ -1,6 +1,6 @@
 # Brazilian Utils - Paleta de Cores 🇧🇷
 
-> [Access here the english version of this document](palette_en.md)
+> [Access here the english version of this document](README_EN.md)
 
 Esta é a paleta de cores oficial do projeto **Brazilian Utils**, baseada nas cores da bandeira do Brasil.
 

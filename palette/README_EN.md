@@ -1,6 +1,6 @@
 # Brazilian Utils - Brand Palette 🇧🇷
 
-> [Acesse aqui a versão em Português deste documento](palette.md)
+> [Acesse aqui a versão em Português deste documento](README.md)
 
 This is the official color palette of the **Brazilian Utils** project, based on the colors of the Brazilian flag.
 
